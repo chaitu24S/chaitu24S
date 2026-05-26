@@ -24,8 +24,7 @@ Passionate about building scalable systems, improving deployment efficiency, aut
 
 # 🌐 Connect With Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-singh24](https://www.linkedin.com/in/chaitanya-singh-6a23b8371/))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-singh-6a23b8371/)
 ---
 
 # 💼 Experience
